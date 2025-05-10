@@ -23,7 +23,7 @@ app = QApplication([])
 main_win = QWidget()
 
 main_win.resize(500, 500)
-main_win.setWindowTitle('')
+main_win.setWindowTitle('Викторины')
 
 #интерфейс
 Victorin = QLabel('Викторины')
